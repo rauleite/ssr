@@ -1,6 +1,6 @@
 {
   "name": "@rauljs/ssr",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -16,8 +16,8 @@
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.56",
-    "@rauljs/log": "^0.0.2",
-    "@rauljs/utils": "^0.0.2",
+    "@rauljs/log": "^0.0.4",
+    "@rauljs/utils": "^0.0.4",
     "@use-it/event-listener": "^0.1.5",
     "apollo-server-micro": "^2.16.0",
     "clsx": "^1.1.1",
@@ -38,5 +38,6 @@
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.20.3",
     "eslint-plugin-react-hooks": "^4.0.8"
-  }
+  },
+  "gitHead": "ddcb10242daa249342afcf0c43953b6e0d68247a"
 }
