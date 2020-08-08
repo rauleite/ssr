@@ -1,5 +1,5 @@
-import log from '@rauljs/log';
-import { isServer } from '@rauljs/utils';
+import log from '@luar/log';
+import { isServer } from '@luar/utils';
 
 export const STORAGE_THEME_TYPE_KEY = 'themeTypeKey';
 export const STORAGE_THEME_NAME_KEY = 'themeNameKey';
