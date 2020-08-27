@@ -1,4 +1,4 @@
-import log from '@luar/log';
+import log from '@luar/utils/log';
 import { isServer } from '@luar/utils';
 
 export const STORAGE_THEME_TYPE_KEY = 'themeTypeKey';
